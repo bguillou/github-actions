@@ -1,0 +1,8 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bguillou/github-actions.git",
+  "author": "Bastien Guillou <bastien.guillou@masternaut.com>",
+  "license": "MIT"
+}
